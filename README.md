@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jawadnaseemkhan
 - 👀 I’m interested in learning and helping
 - 🌱 I’m currently learning machine learning, Deep learning, Computer vision etc....
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with team
 - 📫 How to reach me : jawadnaseemkhan@gmail.com
 
 <!---
