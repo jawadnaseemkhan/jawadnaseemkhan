@@ -71,12 +71,4 @@ I am a passionate **Software Engineer** with expertise in **development**, **tes
 - **M.Sc. Software Engineering** | University of Europe for Applied Sciences, Germany
   **Mar 2023 – Nov 2024**
 
----
-
-## 📈 GitHub Stats
-
-![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawadnaseemkhan&show_icons=true&theme=tokyonight)
-
----
-
 ✨ _Feel free to explore my repositories and reach out for collaboration opportunities!_
